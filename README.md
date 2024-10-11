@@ -60,7 +60,7 @@ dan mendapatkan hasil yang sesuai dengan ekspektasi (Synchronized Backend Servic
 ## Postman Collection
 Import file di bawah untuk pengujian mengggunakan postman
 
-- Simulasi Race Condition Tanpa Synchronized.json
+- Simulasi Race Condition Tanpa Sync.json
 ```
 {
 	"info": {
@@ -122,7 +122,7 @@ Import file di bawah untuk pengujian mengggunakan postman
 ```
 
 
-- Simulasi Race Condition Dengan Synchronized.json
+- Simulasi Race Condition Dengan Sync.json
 ```
 {
 	"info": {
