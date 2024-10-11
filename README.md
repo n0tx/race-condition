@@ -53,7 +53,7 @@ http://localhost:8080/h2-ui
 ![image](https://github.com/user-attachments/assets/908bbe3b-936a-455c-b3bc-9905a02d387d)
 
 - Melakukan 2 permintaan proses (setoran 300 dan penarikan 200) yang dilakukan secara bersamaan \
-dan mendapatkan hasil yang sesuai dengan ekspektasi
+dan mendapatkan hasil yang sesuai dengan ekspektasi (Synchronized)
 
 ![image](https://github.com/user-attachments/assets/f893ed84-9179-45d0-b336-a34375fa3041)
 
