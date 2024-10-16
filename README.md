@@ -1,6 +1,7 @@
 # Simulasi Race Condition Dan Pendekatan Solusi
 
 - Java 17
+- Maven
 - Spring Boot
 - Rest API
 - Spring Data JPA
